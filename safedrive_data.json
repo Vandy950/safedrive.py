@@ -1,0 +1,18 @@
+{
+    "Trips": [
+        {
+            "TripID": "46",
+            "Vehicle": "car",
+            "Driver": "vandy",
+            "Distance": "100"
+        },
+        {
+            "TripID": "123",
+            "Vehicle": "bike",
+            "Driver": "vandy",
+            "Distance": "50"
+        }
+    ],
+    "Vehicles": [],
+    "Drivers": []
+}
